@@ -1,6 +1,6 @@
 import java.io.*;
 
-class abhi {
+class Abhi {
     public static void findFirstAndLast(int arr[], int x)
     {
         int n = arr.length;
